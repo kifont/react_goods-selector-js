@@ -31,9 +31,7 @@ export const App = () => {
               onClick={() => {
                 setSelectedGood('');
               }}
-            >
-              x
-            </button>
+            ></button>
           </>
         ) : (
           'No goods selected'
